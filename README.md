@@ -4,6 +4,8 @@ Agent skills and a small, dependency-free CLI for generating images, editing ref
 
 [简体中文](README.zh-CN.md) · [Image Studio](https://www.fusionai.tv/studio/ai-image) · [API documentation](https://www.fusionai.tv/openapi/docs) · [Tested workflows](examples/README.md)
 
+[![Tests](https://github.com/cjbjjob-sketch/fusionai-skills/actions/workflows/check.yml/badge.svg)](https://github.com/cjbjjob-sketch/fusionai-skills/actions/workflows/check.yml)
+
 Turn a product brief into an image, place a backpack in a new scene, or remove a distracting prop while reviewing the product's identity. This repository includes actual FusionAI workspace examples, their original prompts, and practical inspection checklists.
 
 ## What is included?
@@ -19,7 +21,7 @@ The CLI supports the `openai-images` GPT Image protocol and native `gemini-gener
 
 ## Quick start
 
-Requirements: Node.js 22+, an approved FusionAI developer account, and your own API key. Create a key in the [developer console](https://www.fusionai.tv/open-platform); see the [access instructions](https://www.fusionai.tv/openapi/docs#quick-start).
+Requirements: Node.js 22+, an approved FusionAI developer account, and your own API key. Create a key in the [developer console](https://www.fusionai.tv/openapi/console); see the [access instructions](https://www.fusionai.tv/openapi/docs#quickstart).
 
 ```bash
 git clone https://github.com/cjbjjob-sketch/fusionai-skills.git

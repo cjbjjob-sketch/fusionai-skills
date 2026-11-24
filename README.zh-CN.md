@@ -14,7 +14,7 @@
 
 ## 快速开始
 
-安装 Node.js 22+，在 [开发者控制台](https://www.fusionai.tv/open-platform) 申请接入，审核后创建自己的 API Key。
+安装 Node.js 22+，在 [开发者控制台](https://www.fusionai.tv/openapi/console) 申请接入，审核后创建自己的 API Key。
 
 ```bash
 git clone https://github.com/cjbjjob-sketch/fusionai-skills.git
