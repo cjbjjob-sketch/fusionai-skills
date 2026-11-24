@@ -1,0 +1,4 @@
+interface:
+  display_name: "FusionAI Product Photography"
+  short_description: "Plan product photo references, prompts and quality checks"
+  default_prompt: "Use $fusionai-product-photography to plan a realistic clothing product image and its inspection checklist."

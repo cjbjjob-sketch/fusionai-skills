@@ -1,0 +1,27 @@
+{
+  "source": "FusionAI Image Studio workspace test",
+  "testedAt": "2026-11-19T06:32:55.853Z",
+  "model": "GPT Image 2.5 Sunburst",
+  "selectedSettings": {
+    "ratio": "16:9",
+    "resolution": "1K",
+    "quality": "high"
+  },
+  "receivedOutput": {
+    "width": 1280,
+    "height": 720,
+    "format": "png"
+  },
+  "prompt": "Edit the attached headphone photo. Remove only the small orange wooden cube on the right and its shadow. Reconstruct the exposed area with the surrounding warm ivory tabletop. Preserve the exact headphone silhouette, headband stitching, round earcups, tiny flecks on the front earcup, camera angle, crop, lighting, and the shadow under the headphones. Leave the right side empty. Do not add text, logos or props.",
+  "images": [
+    {
+      "alt": "Original product photo",
+      "url": "https://www.fusionai.tv/tutorial-media/image-model-tests/headphones-original-reference.png"
+    },
+    {
+      "alt": "Edited result",
+      "url": "https://www.fusionai.tv/tutorial-media/image-model-tests/headphone-edit.webp"
+    }
+  ],
+  "sourcePage": "https://www.fusionai.tv/models/gpt-image-2#section-3"
+}

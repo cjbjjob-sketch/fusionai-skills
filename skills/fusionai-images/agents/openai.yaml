@@ -1,0 +1,4 @@
+interface:
+  display_name: "FusionAI Images"
+  short_description: "Generate images and edit reference photos with FusionAI"
+  default_prompt: "Use $fusionai-images to discover my available models and prepare a product-reference edit."

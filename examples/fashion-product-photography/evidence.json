@@ -1,0 +1,31 @@
+{
+  "source": "FusionAI Image Studio workspace test",
+  "testedAt": "2026-11-21T05:36:39.907Z",
+  "model": "GPT Image 2.6 Sunburst",
+  "selectedSettings": {
+    "ratio": "2:3",
+    "resolution": "1K",
+    "quality": "high"
+  },
+  "receivedOutput": {
+    "width": 832,
+    "height": 1248,
+    "format": "png"
+  },
+  "prompt": "Use reference 1 as the person and base photo. Keep her face, hair, stance, camera angle, framing, shoes and studio lighting. Use reference 2 only for the forest-green linen dress. Replace her outfit with this dress, preserving its square neckline, wide straps, narrow matching belt, rectangular buckle and flared hem. Let fabric and shadows follow the original pose. Show the complete garment. No added jewelry, branding or text.",
+  "images": [
+    {
+      "alt": "Model reference",
+      "url": "https://www.fusionai.tv/tutorial-media/image-model-tests/gpt26-fitting-model.webp"
+    },
+    {
+      "alt": "Garment reference",
+      "url": "https://www.fusionai.tv/home/generated/seo-evidence/fashion-source-v1.webp"
+    },
+    {
+      "alt": "Composite result",
+      "url": "https://www.fusionai.tv/tutorial-media/image-model-tests/gpt26-garment-composite.webp"
+    }
+  ],
+  "sourcePage": "https://www.fusionai.tv/examples/garment-and-model-composite"
+}

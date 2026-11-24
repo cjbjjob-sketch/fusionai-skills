@@ -1,0 +1,10 @@
+{
+  "name": "fusionai-skills",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "FusionAI agent skills and a dependency-free image generation and reference editing client",
+  "engines": { "node": ">=22" },
+  "scripts": { "test": "node --test", "check": "node scripts/check-content.mjs", "cli": "node skills/fusionai-images/scripts/fusionai.mjs" },
+  "license": "MIT"
+}
